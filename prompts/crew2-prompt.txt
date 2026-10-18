@@ -1,0 +1,3 @@
+Edit this image. Keep robots 2 to 6 (the scout, the gardener, the engineer, the marketer, the chronicler), the background, the style, the palette and the layout exactly the same.
+
+Change only the leftmost robot, the chief of staff. Remove the black top hat and the red-and-white sash entirely: he must not look like a mayor. Instead make him a neat, efficient office assistant robot: bare round domed head with a single small antenna, a slim teal-blue headset with a microphone, a dark teal waistcoat with a pen in the breast pocket, holding a clipboard in one hand and a small pocket watch in the other. Same height, pose and pixel style as the others. No text, letters, numbers or logos anywhere.

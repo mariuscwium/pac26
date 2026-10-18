@@ -1,0 +1,12 @@
+Edit this image. Keep everything exactly as it is: the book, the sketches, the calligraphic headings and captions, the style. Only add a modern developer's hasty notes scrawled on top in bright blue ballpoint pen, in messy but clearly legible handwriting, slightly tilted, with small hand-drawn arrows pointing at each sketch, as if a programmer annotated the old book. Each note sits on the parchment inside or beside its sketch, never covering the calligraphic captions or headings. Spell each note exactly as given:
+
+on sketch I (top-left, left page): "= autocomplete"
+on sketch II (top-right, left page): "= asks y/n"
+on sketch III (bottom-left, left page): "= full perms"
+on sketch IV (bottom-right, left page): "= agent fills screen"
+on sketch V (top-left, right page): "= CLI only"
+on sketch VI (top-right, right page): "= 3 agents"
+on sketch VII (bottom-left, right page): "= 10 agents!!"
+on sketch VIII (bottom-right, right page), circled twice: "= manager of agents. THIS ONE"
+
+No other new text. Every word spelled correctly.

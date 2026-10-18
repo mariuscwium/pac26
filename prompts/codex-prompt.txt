@@ -1,0 +1,17 @@
+Same style, palette and pixel size as the reference image: early-nineties VGA adventure game, hard square pixels, limited palette.
+
+An old leather-bound book lying open on a dark wooden desk, seen straight down, as in the reference, but showing the whole book with a margin of dark desk visible on all four sides so nothing is cut off. The two aged parchment pages are filled in the style of Leonardo da Vinci's notebooks: confident sepia-brown ink sketches with fine cross-hatching, like engineering studies of automata. No writing at all: no letters, words, numbers or scribbled text anywhere.
+
+Layout, which matters: each page has a blank band across the top for a heading, then four sketches in a neat two-by-two grid, each with a small blank strip of parchment underneath it for a caption. The right page also has a blank band across the bottom. Sketches are simple, bold and clearly readable from a distance, one idea each.
+
+Left page, top-left to bottom-right:
+1) a man writing at a desk while a tiny mechanical sprite on his shoulder whispers the next word in his ear;
+2) a small clockwork automaton standing on the desk holding up two cards, one with a tick and one with a cross, waiting for the man to choose;
+3) the automaton typing at a machine by itself while the man leans back with a cup;
+4) a huge automaton face filling a tall framed window, the small man squinting at a long scroll.
+
+Right page, top-left to bottom-right:
+5) an automaton sealed inside a wooden cabinet working, the man turned away eating bread;
+6) three automata at three desks around the frazzled man;
+7) ten automata crowding the room while the man desperately spins plates on sticks;
+8) the man relaxing with his feet up, talking to one taller automaton in a top hat, which directs rows of automata like an orchestra conductor. Draw this last sketch slightly bolder, as the finale.

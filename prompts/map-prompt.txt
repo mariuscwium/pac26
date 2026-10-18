@@ -1,0 +1,12 @@
+Match the reference images exactly in style, palette and pixel size: an early-nineties VGA point-and-click adventure game, hard square pixels, ordered checkerboard dithering, limited 256-colour palette, warm amber and ochre against deep indigo and plum. The robots are the same small boxy robots as in the reference line-up; the Mayor is the taller robot in the top hat and red-and-white sash.
+
+A wide overworld travel map, the kind shown between chapters of a nineties adventure game: a hand-painted parchment-and-desert map seen from a high three-quarter angle, with a dotted red travel line winding from the bottom left to the top right through six numbered locations. Each location is a small, clearly readable vignette with a tiny wooden signpost beside it.
+
+1. GENERATE, bottom left: a lone adobe hut on the desert edge, a man with red curly hair, glasses and a black t-shirt sitting outside at a small table talking with one robot, a sheet of paper between them.
+2. AUTOMATE, next along: a windmill and a water pump turning by themselves at dawn, a robot carrying a rolled newspaper and a coffee mug down the path.
+3. REMEMBER, mid-left: a cliff face with a vault door and a mine entrance, robots on ladders carrying scrolls inside.
+4. PROTOTYPE, mid-right: a film-set street of flat false-front buildings propped up with beams, robots painting big screen-shaped boards, a scrap pile beside it.
+5. SHIP, upper right: a loading dock with a conveyor belt, crates with green tick marks, a small train leaving on a track.
+6. ORCHESTRATE, top right, the destination, slightly larger: the robot town itself with a water tower, the Mayor standing on top of the tower with a lantern, rows of small robots working in the streets below. A warm golden glow around it.
+
+Between locations: cactuses, mesas, a dry riverbed with a plank bridge, a compass rose in one corner, and a folded corner of parchment. A tiny figure of the man with red curly hair stands on the travel line at location 1, with a dotted trail ahead. All labels in neat chunky pixel block capitals, spelled exactly as given: "1. GENERATE", "2. AUTOMATE", "3. REMEMBER", "4. PROTOTYPE", "5. SHIP", "6. ORCHESTRATE". No other text, letters or numbers anywhere.

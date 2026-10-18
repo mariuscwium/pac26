@@ -1,0 +1,9 @@
+Edit this image. Keep everything exactly the same: the parchment map, the desert, the camera, the pixel style and palette, the six locations, their signposts and spellings, the compass rose, the tiny red-haired traveller. Make only these changes:
+
+1. The dotted red travel line must be one continuous unbroken trail that visits the six locations in order: it starts at the traveller beside "1. GENERATE", runs to the windmill at "2. AUTOMATE", climbs up to the vault and mine at "3. REMEMBER", comes back down and across to the false-front boards at "4. PROTOTYPE", continues up to location 5, and ends at the water tower at "6. ORCHESTRATE". Evenly spaced red dots the whole way, clearly visible over the ground, passing in front of scenery where needed. Remove any stray dots that do not belong to this single path.
+
+2. Location 5 changes from a shipping dock to a grooming workshop. Replace the sign text "5. SHIP" with "5. GROOM", same signpost, same chunky pixel block capitals. Under the same open-sided wooden shelter, replace the conveyor belt, crates and train with: a robot at a drafting table measuring a screen-shaped wooden board with a large pair of calipers, a long specification scroll pinned up beside it covered in tidy diagram lines (no letters), a second robot pressing a big rubber stamp with a green tick onto the scroll, and a neat stack of ribbon-tied scrolls waiting at the edge. The railway track and train are gone; plain desert in their place.
+
+3. On the "4. PROTOTYPE" boards, replace the film-camera silhouettes with simple painted app-screen layouts: rectangles, a header bar, a few buttons and a chart. No letters.
+
+No other text changes anywhere. No new text, letters or numbers.

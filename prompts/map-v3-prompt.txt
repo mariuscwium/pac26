@@ -1,0 +1,7 @@
+Edit this image. Keep everything exactly the same: the parchment map, the desert, the camera, the pixel style and palette, all six locations and their artwork, the compass rose, the tiny red-haired traveller, the signposts. Make only these changes:
+
+1. Swap the numbers on two signs. The sign above the vault and mine currently reads "3. REMEMBER"; change it to "2. REMEMBER". The sign beside the windmill currently reads "2. AUTOMATE"; change it to "3. AUTOMATE". Same signposts, same chunky pixel block capitals, spelled exactly as given.
+
+2. Reroute the dotted red travel line so it visits the locations in the new order. One continuous unbroken trail of evenly spaced red dots: it starts at the traveller beside "1. GENERATE", climbs up to the vault and mine at "2. REMEMBER", comes back down to the windmill and pump at "3. AUTOMATE", then continues across to "4. PROTOTYPE", up to "5. GROOM" and ends at the water tower at "6. ORCHESTRATE". Remove every old dot that is not on this new path. The trail must not go from location 1 straight to the windmill.
+
+No other text changes anywhere. No new text, letters or numbers.

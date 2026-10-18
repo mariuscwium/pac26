@@ -1,0 +1,12 @@
+Match the reference image exactly in style, palette, pixel size and background: early-nineties VGA point-and-click adventure game, hard square pixels, ordered checkerboard dithering, limited 256-colour palette, warm amber lamplight against deep indigo and plum shadows. No text, letters, numbers or logos anywhere.
+
+Redraw the character line-up with EIGHT robots instead of six, in one straight horizontal row across the middle of a plain flat dark indigo background, full bodies, all the same height, evenly spaced with clear space between them, facing the viewer. Keep the six existing robots looking exactly as they do in the reference (same shapes, colours and props), and add two new ones. Left to right:
+1) the chief of staff (teal headset, teal waistcoat, clipboard, pocket watch) — as in the reference;
+2) the discovery scout with the magnifying glass and lantern — as in the reference;
+3) NEW: a prototype builder, a stagehand robot in a flat cap and a tool belt, carrying a big painted cardboard cut-out of a blank app screen under one arm and a paintbrush in the other hand;
+4) the engineer in the yellow hard hat with the large wrench — as in the reference;
+5) the growth robot with the watering can and the potted plant with gold-coin leaves — as in the reference;
+6) NEW: a product marketing robot with an old wooden film camera on a small tripod beside it and a little open help manual in one hand, wearing a beret;
+7) the marketer shouting into the red megaphone — as in the reference;
+8) the chronicler with the quill pen and the big open book — as in the reference.
+Nothing else in the image: no ground, no shadows beyond a small one under each robot. Keep the robots small enough that all eight fit with margin on both sides.

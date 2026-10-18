@@ -1,0 +1,17 @@
+Use the reference image only for style: the same old book lying open on the same desk, the same camera, the same aged parchment, the same da Vinci-notebook sepia ink sketches with fine cross-hatching, same lighting and colours. Draw NEW pages: these are the next two pages of the book, filled in by a modern product manager.
+
+Layout: each page has a band across the top for a heading, then three wide sketches stacked one above the other, each with a short caption written beside or under it. Sketches are bold, simple and readable from a distance.
+
+All lettering is modern handwriting in dark graphite pencil, neat block capitals, large and clearly legible, spelled exactly as given. No other text anywhere.
+
+Left page heading: "THE SAME LADDER, FOR PRODUCT"
+Left page sketches, top to bottom:
+"1. GENERATE": a man in a cap chatting with a small clockwork automaton across a desk, a draft page between them;
+"2. AUTOMATE": at dawn, an automaton hands the man a rolled-up morning newspaper and a cup;
+"3. REMEMBER": an automaton on a ladder filing scrolls into a tall cabinet of drawers while the man reads one scroll.
+
+Right page heading: "SAME QUESTION. LESS WATCHING."
+Right page sketches, top to bottom:
+"4. PROTOTYPE": several automata building painted cardboard mock-ups of a screen overnight under a crescent moon, one tossed on a scrap pile;
+"5. SHIP": an automaton stamps a tick on a mock-up and sends it along a conveyor to a team of automata with tools;
+"6. ORCHESTRATE": the man relaxing with his feet up, talking to one taller automaton in a top hat who conducts rows of automata. Draw this last one slightly bolder, as the finale, with its caption underlined twice.
