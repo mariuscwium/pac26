@@ -59,8 +59,28 @@ Runs on [Gas City](https://github.com/gastownhall/gascity), the open-source orch
 
 ## Further reading
 
-- Steve Yegge, [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04). The ladder developers climbed, and where the whole metaphor comes from.
-- [Gas City](https://github.com/gastownhall/gascity) and [Beads](https://github.com/gastownhall/beads), the orchestrator and tracker the town runs on.
+Where the metaphor comes from:
+
+- Steve Yegge, [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) (Jan 2026). The ladder developers climbed, and the whole metaphor.
+- Steve Yegge, [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607) (Apr 2026). The toolkit the town runs on. Code: [Gas City](https://github.com/gastownhall/gascity) and [Beads](https://github.com/gastownhall/beads).
+- Steve Yegge, [The Shape of Things to Come, Part 1: The Continuous Thunderdome](https://yegge.ai/essays/the-shape-of-things-to-come/) (Aug 2026). Where his own Gas Town fell apart and what he built next. Read this one too. The honeymoon ends for everyone.
+
+How to build the crew:
+
+- Anthropic, [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents). Workflows before agents. Start with the simplest thing that works. Most of my orders are plain scripts for this reason.
+- Anthropic, [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system). The Mayor pattern: one lead, parallel workers, and the token bill that comes with it.
+- Mike Mason, [AI coding agents in 2026: coherence through orchestration, not autonomy](https://mikemason.ca/writing/ai-coding-agents-jan-2026/) (Jan 2026). Supervision is the product. Same argument as the ladder, from the engineering side.
+
+The laws:
+
+- Simon Willison, [The lethal trifecta for AI agents](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) (Jun 2025). Private data, untrusted content, a way out. Any two is fine. All three is a breach waiting to happen. Law six, in one page.
+- Simon Willison, [Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonw.substack.com/p/highlights-from-my-conversation-about) (Apr 2026). Building is cheap now, so testing and deciding are the bottleneck. The golden law, from someone who ships a lot.
+
+For product people:
+
+- Marty Cagan, [A vision for product teams](https://www.svpg.com/a-vision-for-product-teams/) (Feb 2025). Delivery gets automated, the trio does discovery. The quest, before the tooling existed.
+- Tal Raviv, [Make product management fun again with AI agents](https://www.lennysnewsletter.com/p/make-product-management-fun-again) (Lenny's Newsletter, Apr 2025, paid). Levels one to three for a PM, with worked examples.
+- Colin Matthews, [How to get your entire team prototyping with AI](https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping) (Lenny's Newsletter, Jun 2025, paid). Level four: component libraries, baselines and forks, so prototypes land on real pages.
 
 ## The art
 
