@@ -62,6 +62,7 @@ Runs on [Gas City](https://github.com/gastownhall/gascity), the open-source orch
 Where the metaphor comes from:
 
 - Steve Yegge, [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04) (Jan 2026). The ladder developers climbed, and the whole metaphor.
+- Dan Shapiro, [The Five Levels: from Spicy Autocomplete to the Dark Factory](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/) (Jan 2026). The same ladder as the levels of a self-driving car, from manual to a dark factory where nobody reads the code. Almost everyone stops at level three.
 - Steve Yegge, [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607) (Apr 2026). The toolkit the town runs on. Code: [Gas City](https://github.com/gastownhall/gascity) and [Beads](https://github.com/gastownhall/beads).
 - Steve Yegge, [The Shape of Things to Come, Part 1: The Continuous Thunderdome](https://yegge.ai/essays/the-shape-of-things-to-come/) (Aug 2026). Where his own Gas Town fell apart and what he built next. Read this one too. The honeymoon ends for everyone.
 
