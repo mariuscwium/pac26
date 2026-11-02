@@ -6,38 +6,37 @@ Thank you for playing.
 
 ## The argument
 
-The developers got faster than I could feed them useful work. I borrowed their approach to agents and applied it to product operations. The town now finds, shapes and checks work. I still decide what deserves to be built.
+Our developers learned to build almost anything, fast. Pull requests merged each month went from about 50 to 356, then levelled off once the obvious things were built. The question became: what should we build next?
 
-Two quests, posted on slide 5 and ticked near the end:
+The game gives you three tries. Say yes to every idea and build it fast: you end up owning everything. Read every signal and explore every idea yourself: you become the queue and burn out. Or learn from the developers. They stopped watching the robots, shaped what went in and checked what came out. Attention is the bottleneck.
 
-- Keep up with the developers.
-- Focus development on what matters.
+The quest: agentic product ops. Extend the software factory to the rest of the town, deciding what to build and telling people about it. We still decide.
 
 ## The six levels
 
-The ladder developers already climbed, copied out for product. Each level answers the developer's question, "what's next?", with less of you watching.
+Each level hands the machine a bit more of the work, with less of you watching. We keep the judgment.
 
-| Level | Name | What you do | The catch |
+| Level | Name | What it does | The catch |
 |---|---|---|---|
-| 1 | Generate | Hire a clerk. Faster first drafts, same job. | Chat memory is a diary. Your product needs a library the whole town can read. |
-| 2 | Remember | Build a library the whole town can read: north star, strategy, decision log, findings ledger. | A library nobody restocks is a museum. The reading has to happen without you. |
-| 3 | Automate | Put the search on a schedule. Support, Slack, analytics and forums read overnight, filed against the strategy. | The scout finds problems faster than you can solve them. Finding was never the bottleneck. Solving is. |
-| 4 | Prototype | Every problem arrives with candidate answers already built on a twin of the product. You click through, compare, show real managers, keep or kill. | A false front has nothing behind it. A prototype says what. The developer needs how, where, and what it must not break. |
-| 5 | Groom | Turn a kept prototype into a ticket a developer can build. Read-only codebase access, an anonymised database tap, analytics. | Seven agents, one babysitter. Every agent you add is one more thing that can loop, drift or break. You are the operations team now. |
-| 6 | Orchestrate | Hand the crew to the Mayor. You talk to one agent; it talks to the rest and brings you the exceptions. | What's left on your desk is the judgment. |
+| 1 | The Chatbot | Drafts, questions and compares ideas when you ask. A sharper first version in minutes. | It only moves while you're talking to it. And there's only one of you. |
+| 2 | The Vault | Keeps strategy, evidence and decisions, including the ideas you stopped, in one shared place. Every agent starts from what you know. | It's only as fresh as you keep it. Take four days off and it goes stale. |
+| 3 | The Messenger | Reads support, Slack, the forums and usage on a schedule, and files what it finds in the vault. | Soon there's more than anyone can read, and every idea still waits for you. |
+| 4 | The Prototyper | Builds clickable versions of the top problems in a copy of the product, on made-up data. You test, take forward or stop. | A painted front. Nobody has checked what's behind it. |
+| 5 | The Engineer | Checks each prototype against the real code while it's cheap to change, then readies the ticket. | Agents break: credits run out, connectors stop, loops repeat. And you're the one fixing them. |
+| 6 | The Mayor | Runs the other agents and reads every report. You talk to one agent; only the decisions that need you come back. | What's left on your desk is the judgment. |
 
 ## The laws of Gas Town
 
-1. Air-gapped from production. One API in: read-only, no personal data.
+1. Isolated from production. One API in: read-only, no personal data.
 2. Each agent gets only the access its job needs. Builders get none.
 3. Enforced in code, not just in the prompt.
 4. People merge, release and send. Agents only draft.
 5. Every loop has a ceiling. Past it, a person takes over.
 6. Treat them, and everything they read, as malicious.
 
-The golden law: robots don't have taste. That's your job. They're brilliant at grunt work. Let them have it.
+The golden law: the agents prepare the evidence. We stay responsible for the outcomes. "We" is product, design and engineering, together.
 
-The cost: duplicated work, moments of "what is it doing?", and an obscene number of tokens.
+The cost: three or four of the top Claude plans (Max 20x), plus team accounts for everyone else. Also duplicated work, and moments of "what is it doing?".
 
 ## Your next quest
 
@@ -45,14 +44,14 @@ The cost: duplicated work, moments of "what is it doing?", and an obscene number
 2. Give it away this week.
 3. Spend the hour talking to customers.
 
-Bonus level: get a twin. A clickable copy of your product's screens on fake data, so prototypes can be built on top of real pages with no customer data behind them.
+Bonus level: build a twin to explore a question you haven't answered yet. A clickable copy of your product's screens on made-up data, so prototypes land on real-looking pages with no customer data behind them.
 
-## My town, as of October 2026
+## My town, as of November 2026
 
-One implementation, built in a few months, for one small company. Yours will look different. Same six levels; your crew, your scripts, your tools.
+One implementation, built over about a year, for one small company. Yours will look different. Same six levels; your crew, your scripts, your tools.
 
-- **Agents:** a Mayor, eleven standing seats (LMS engineer, backlog groomer, backlog prioritiser, discovery, prototype builder, chronicler, chief of staff, product marketing, growth, marketing) and a twelve-role build crew that takes a GitHub issue in and puts a pull request out.
-- **Scripts:** about two dozen scheduled orders. Plain Python on a clock. A model only runs when a script finds work.
+- **Agents:** a Mayor and twelve seats: messenger, prototyper, engineer, prioritiser, groomer, chronicler (the weekly note), chief of staff (who's working on what), product marketing, growth, marketing and a SOC 2 steward, plus a build crew that takes a GitHub issue in and puts a draft pull request out.
+- **Scripts:** about two dozen scheduled jobs. Plain Python on a clock. A model only runs when a script finds work.
 - **Connectors:** Slack, GitHub, Help Scout, PostHog, Maze, Monday, Google Drive, Gmail, Calendar, Figma, Rollbar, Datadog, and a read-only system API on the product with no personal data.
 
 Runs on [Gas City](https://github.com/gastownhall/gascity), the open-source orchestrator that takes its name from Steve Yegge's post.
