@@ -94,7 +94,7 @@ For product people:
 
 ## Side quest: Funnel Drop
 
-A toy I built with the same crew: [Funnel Drop](https://mariuscwium.github.io/funneldrop/), a product management simulator that runs in your browser. Visitors fall through five Plinko-style boards, one for each pirate metric: acquisition, activation, retention, referral and revenue. You spend cash on channels, a roadmap, pricing and a team, and try to reach an IPO before you run out of runway or the board loses patience. Nothing to install. The code is at [mariuscwium/funneldrop](https://github.com/mariuscwium/funneldrop).
+A toy I built on the side: [Funnel Drop](https://mariuscwium.github.io/funneldrop/), a product management simulator that runs in your browser. Visitors fall through five Plinko-style boards, one for each pirate metric: acquisition, activation, retention, referral and revenue. You spend cash on channels, a roadmap, pricing and a team, and try to reach an IPO before you run out of runway or the board loses patience. Nothing to install. The code is at [mariuscwium/funneldrop](https://github.com/mariuscwium/funneldrop).
 
 ## The art
 
