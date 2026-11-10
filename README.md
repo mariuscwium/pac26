@@ -1,6 +1,6 @@
 # Welcome to Gas Town
 
-![Welcome to Gas Town: an agent orchestration adventure for product people. Pixel art of a desert frontier town at sunset, grown around an old gas station and full of small robot workers, with a robot mayor on the water tower.](banner.jpg)
+![Welcome to Gas Town: an agent orchestration adventure for product people. Marius Wium, Product Aotearoa 2026. Pixel art of six small robots walking along a desert road at sunset toward a frontier town built around an old gas station, with a robot mayor on the water tower holding a lantern.](banner.jpg)
 
 An agent orchestration adventure for product people. Resources for Marius Wium's talk at Product Aotearoa 2026, Wellington, 12 Nov 2026, in the Augmented PM track.
 
