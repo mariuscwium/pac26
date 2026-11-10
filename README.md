@@ -94,7 +94,7 @@ For product people:
 
 ## The art
 
-Every scene in the deck is pixel art generated from a text prompt, with earlier scenes and character portraits passed back in as references so the cast stays consistent. The prompts are in [`prompts/`](prompts/), one file per image, and [`gen.sh`](gen.sh) is the two-line wrapper that calls the image API. Sizes must divide by 16, so scenes are 1920x1024, not 1920x1080.
+Every scene in the deck is pixel art generated from a text prompt, with earlier scenes and character portraits passed back in as references so the cast stays consistent. Ask me if you want the prompts.
 
 ## Who made this
 
