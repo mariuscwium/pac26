@@ -4,6 +4,16 @@ An agent orchestration adventure for product people. Resources for Marius Wium's
 
 Thank you for playing.
 
+## Start here
+
+Scanned the QR code in the room? Three things, in order of effort:
+
+1. **Do the quest.** [`starter/first-job.md`](starter/first-job.md) is a ten-minute worksheet for picking the one job to give away this week.
+2. **Hire your first agent.** [`starter/seat-brief.md`](starter/seat-brief.md) is the four-part template every seat in my town uses: a brief, a drawer, a clock and a line to the Mayor. Copy it, fill it in, paste it into the tool you already have.
+3. **Read the laws before you give it access.** [`starter/laws-checklist.md`](starter/laws-checklist.md) is the six laws as questions to answer for each agent.
+
+I'll be posting more detail on LinkedIn after the conference: what I built, what broke, and what I'd do differently. [Follow me there](https://www.linkedin.com/in/mariuswium/) to get it, or message me if you get stuck on a level.
+
 ## The argument
 
 Our developers learned to build almost anything, fast. Pull requests merged each month went from about 50 to 356, then levelled off once the obvious things were built. The question became: what should we build next?
@@ -85,3 +95,9 @@ For product people:
 ## The art
 
 Every scene in the deck is pixel art generated from a text prompt, with earlier scenes and character portraits passed back in as references so the cast stays consistent. The prompts are in [`prompts/`](prompts/), one file per image, and [`gen.sh`](gen.sh) is the two-line wrapper that calls the image API. Sizes must divide by 16, so scenes are 1920x1024, not 1920x1080.
+
+## Who made this
+
+I'm Marius Wium, Head of Product at RedSeed in Christchurch, New Zealand. I've spent about a year building the town in this talk alongside the day job, and I've made most of the mistakes in it at least once.
+
+I like comparing notes with other teams doing this. If you're setting up something similar, want this talk or a hands-on session for your team or meetup, or think I've got something wrong, [find me on LinkedIn](https://www.linkedin.com/in/mariuswium/). Corrections and better ideas are also welcome as issues on this repository.
