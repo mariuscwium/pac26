@@ -8,7 +8,9 @@ Thank you for playing.
 
 ## Start here
 
-Scanned the QR code in the room? Three things, in order of effort:
+Scanned the QR code in the room? The slides are here: [`slides.pdf`](slides.pdf) (55 slides, 15 MB).
+
+Then three things, in order of effort:
 
 1. **Do the quest.** [`starter/first-job.md`](starter/first-job.md) is a ten-minute worksheet for picking the one job to give away this week.
 2. **Hire your first agent.** [`starter/seat-brief.md`](starter/seat-brief.md) is the four-part template every seat in my town uses: a brief, a drawer, a clock and a line to the Mayor. Copy it, fill it in, paste it into the tool you already have.
