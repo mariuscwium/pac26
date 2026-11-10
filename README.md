@@ -92,6 +92,10 @@ For product people:
 - Tal Raviv, [Make product management fun again with AI agents](https://www.lennysnewsletter.com/p/make-product-management-fun-again) (Lenny's Newsletter, Apr 2025, paid). Levels one to three for a PM, with worked examples.
 - Colin Matthews, [How to get your entire team prototyping with AI](https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping) (Lenny's Newsletter, Jun 2025, paid). Level four: component libraries, baselines and forks, so prototypes land on real pages.
 
+## Side quest: Funnel Drop
+
+A toy I built with the same crew: [Funnel Drop](https://mariuscwium.github.io/funneldrop/), a product management simulator that runs in your browser. Visitors fall through five Plinko-style boards, one for each pirate metric: acquisition, activation, retention, referral and revenue. You spend cash on channels, a roadmap, pricing and a team, and try to reach an IPO before you run out of runway or the board loses patience. Nothing to install. The code is at [mariuscwium/funneldrop](https://github.com/mariuscwium/funneldrop).
+
 ## The art
 
 Every scene in the deck is pixel art generated from a text prompt, with earlier scenes and character portraits passed back in as references so the cast stays consistent. Ask me if you want the prompts.
